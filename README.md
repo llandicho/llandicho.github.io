@@ -1,1 +1,1 @@
-### Louella Landicho Portfolio 2018 <a href="http://www.louellalandicho.com/">louellalandicho.com</a>
+### Louella Landicho Portfolio 2018 <a href="http://www.louellalandicho.com/" target="_blank">louellalandicho.com</a>
